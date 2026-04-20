@@ -1,4 +1,4 @@
-# Bumpty
+# 2025 Garuda Hackaton Participation
 Garuda Hackaton
 
 Project link: https://drive.google.com/drive/u/0/folders/1bTPP2LzKTm18f9-4_BVTs4aWLNPtd3Pr
